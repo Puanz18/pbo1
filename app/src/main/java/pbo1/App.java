@@ -3,7 +3,7 @@
  */
 package pbo1;
 
-public class App {
+public class App{
     public String getGreeting() {
         return "Hello World!";
     }
